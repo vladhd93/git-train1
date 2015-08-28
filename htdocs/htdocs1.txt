@@ -8,3 +8,6 @@ hello new branch !!!
 
  in master branch 
 >>>>>>> master
+
+
+новая строка для пуша!!!1
